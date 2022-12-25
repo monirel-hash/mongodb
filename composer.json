@@ -1,0 +1,17 @@
+{
+    "name": "realmo/mongodb",
+    "autoload": {
+        "psr-4": {
+            "Realmo\\Mongodb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Monir El Hadjeui",
+            "email": "elhadjeui.monir@ofppt-edu.ma"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.15"
+    }
+}
